@@ -195,6 +195,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73.ReforcoWhile", "73.Refor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50.DateTime2", "50.DateTime2\50.DateTime2.csproj", "{28604351-BBA2-41C0-8491-D61A4D05EA68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74.ValidadeDeEstoque", "74.ValidadeDeEstoque\74.ValidadeDeEstoque.csproj", "{1FC8D9DD-692E-4BFD-9FAE-6FE230E9B67B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -553,6 +555,10 @@ Global
 		{28604351-BBA2-41C0-8491-D61A4D05EA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28604351-BBA2-41C0-8491-D61A4D05EA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28604351-BBA2-41C0-8491-D61A4D05EA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC8D9DD-692E-4BFD-9FAE-6FE230E9B67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC8D9DD-692E-4BFD-9FAE-6FE230E9B67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC8D9DD-692E-4BFD-9FAE-6FE230E9B67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC8D9DD-692E-4BFD-9FAE-6FE230E9B67B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -649,6 +655,7 @@ Global
 		{02FCC347-5D12-48EA-BA8E-DB5BACD9DB76} = {6CBE9325-35AD-4B42-A31A-71E6A44DB6BF}
 		{191D8CBA-D883-43F2-A7CF-2583CDDE6489} = {92E64393-B52A-4D4B-89DB-2291DC17C0A0}
 		{28604351-BBA2-41C0-8491-D61A4D05EA68} = {92E64393-B52A-4D4B-89DB-2291DC17C0A0}
+		{1FC8D9DD-692E-4BFD-9FAE-6FE230E9B67B} = {E69EE6B1-2426-4A61-95C7-71C5B5116A2E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A9F4FEB-B9FD-46F6-B988-8A6D72122FAB}
