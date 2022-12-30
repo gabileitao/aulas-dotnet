@@ -189,9 +189,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BancoDeDados", "BancoDeDado
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BancoDeDadosNonQuery", "BancoDeDados\BancoDeDadosNonQuery.csproj", "{C7B4B9C9-EBED-4028-B28A-5F5C3D7FA548}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDeDadosQuery", "BancoDeDadosQuery\BancoDeDadosQuery.csproj", "{02FCC347-5D12-48EA-BA8E-DB5BACD9DB76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BancoDeDadosQuery", "BancoDeDadosQuery\BancoDeDadosQuery.csproj", "{02FCC347-5D12-48EA-BA8E-DB5BACD9DB76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73.ReforcoWhile", "73.ReforcoWhile\73.ReforcoWhile.csproj", "{191D8CBA-D883-43F2-A7CF-2583CDDE6489}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73.ReforcoWhile", "73.ReforcoWhile\73.ReforcoWhile.csproj", "{191D8CBA-D883-43F2-A7CF-2583CDDE6489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50.DateTime2", "50.DateTime2\50.DateTime2.csproj", "{28604351-BBA2-41C0-8491-D61A4D05EA68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -547,6 +549,10 @@ Global
 		{191D8CBA-D883-43F2-A7CF-2583CDDE6489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{191D8CBA-D883-43F2-A7CF-2583CDDE6489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{191D8CBA-D883-43F2-A7CF-2583CDDE6489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28604351-BBA2-41C0-8491-D61A4D05EA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28604351-BBA2-41C0-8491-D61A4D05EA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28604351-BBA2-41C0-8491-D61A4D05EA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28604351-BBA2-41C0-8491-D61A4D05EA68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -642,6 +648,7 @@ Global
 		{C7B4B9C9-EBED-4028-B28A-5F5C3D7FA548} = {6CBE9325-35AD-4B42-A31A-71E6A44DB6BF}
 		{02FCC347-5D12-48EA-BA8E-DB5BACD9DB76} = {6CBE9325-35AD-4B42-A31A-71E6A44DB6BF}
 		{191D8CBA-D883-43F2-A7CF-2583CDDE6489} = {92E64393-B52A-4D4B-89DB-2291DC17C0A0}
+		{28604351-BBA2-41C0-8491-D61A4D05EA68} = {92E64393-B52A-4D4B-89DB-2291DC17C0A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A9F4FEB-B9FD-46F6-B988-8A6D72122FAB}
